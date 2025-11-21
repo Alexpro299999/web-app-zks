@@ -1,0 +1,64 @@
+﻿@page
+@model MyWebApp.Pages.ProceduresModel
+@{
+    ViewData["Title"] = "Виды услуг";
+}
+
+<div class="flex items-center justify-between mb-6">
+    <h1 class="text-2xl font-bold text-gray-900">Виды услуг</h1>
+    <a asp-page="AddEditProcedure" class="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-lg text-sm font-medium shadow-sm transition-colors flex items-center decoration-none">
+        <i class="fa-solid fa-plus mr-2"></i> Добавить
+    </a>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <div class="mb-6 p-4 rounded-lg border @(Model.StatusMessage.Contains("Ошибка") ? "bg-red-50 border-red-200 text-red-700" : "bg-green-50 border-green-200 text-green-700")">
+        <i class="fa-solid @(Model.StatusMessage.Contains("Ошибка") ? "fa-circle-exclamation" : "fa-circle-check") mr-2"></i>
+        @Model.StatusMessage
+    </div>
+}
+
+<div class="bg-white shadow-sm rounded-xl border border-gray-200 overflow-hidden">
+    <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Название</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Цена (₽)</th>
+                    <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Действия</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                @if (Model.Procedures.Count == 0)
+                {
+                    <tr>
+                        <td colspan="3" class="px-6 py-4 text-center text-gray-500">
+                            Нет данных. Добавьте первую услугу.
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    @foreach (var item in Model.Procedures)
+                    {
+                        <tr class="hover:bg-gray-50 transition-colors">
+                            <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">@item.Name</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">@item.Price</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                                <a asp-page="./AddEditProcedure" asp-route-id="@item.Id" class="text-emerald-600 hover:text-emerald-900 mr-3">
+                                    <i class="fa-regular fa-pen-to-square"></i>
+                                </a>
+                                <form method="post" asp-page-handler="Delete" asp-route-id="@item.Id" style="display:inline;" onsubmit="return confirm('Удалить услугу?');">
+                                    <button type="submit" class="text-red-600 hover:text-red-900 border-0 bg-transparent">
+                                        <i class="fa-regular fa-trash-can"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
