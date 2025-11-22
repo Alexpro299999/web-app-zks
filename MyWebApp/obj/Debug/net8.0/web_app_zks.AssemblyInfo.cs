@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web_app_zks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3e112da8852d525f650991b4faf24e82154c73")]
 [assembly: System.Reflection.AssemblyProductAttribute("web_app_zks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web_app_zks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
