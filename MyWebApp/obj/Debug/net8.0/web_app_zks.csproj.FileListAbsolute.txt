@@ -261,3 +261,4 @@ C:\Users\slava\source\repos\web_app_zks\MyWebApp\obj\Debug\net8.0\refint\web_app
 C:\Users\slava\source\repos\web_app_zks\MyWebApp\obj\Debug\net8.0\web_app_zks.pdb
 C:\Users\slava\source\repos\web_app_zks\MyWebApp\obj\Debug\net8.0\web_app_zks.genruntimeconfig.cache
 C:\Users\slava\source\repos\web_app_zks\MyWebApp\obj\Debug\net8.0\ref\web_app_zks.dll
+C:\Users\slava\source\repos\web_app_zks\MyWebApp\obj\Debug\net8.0\web_app_zks.sourcelink.json

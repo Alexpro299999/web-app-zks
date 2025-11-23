@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\slava\\source\\repos\\web_app_zks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\patient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\patient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\patients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\patients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditpatient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditpatient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\patients.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\patients.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditward.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditward.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\wards.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\wards.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditdoctor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditdoctor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\doctors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\doctors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +111,6 @@
       "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,56 +123,12 @@
       "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\medicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\medicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditprocedure.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditprocedure.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\procedures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\procedures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\pages\\addeditprocedure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\pages\\addeditprocedure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|c:\\users\\slava\\source\\repos\\web_app_zks\\mywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C66AE412-27DF-4968-BB1D-44E29EEE0D62}|MyWebApp\\web_app_zks.csproj|solutionrelative:mywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,17 +138,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Patient.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patient.cshtml.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Patient.cshtml.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patient.cshtml.cs",
-              "RelativeToolTip": "MyWebApp\\Pages\\Patient.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MyWebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MyWebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-23T07:04:58.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Program.cs",
+              "RelativeToolTip": "MyWebApp\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:01:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\SeedData.cs",
+              "RelativeToolTip": "MyWebApp\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:00:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T06:59:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T06:59:10.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\appsettings.json",
+              "RelativeToolTip": "MyWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T06:21:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Patient.cs",
+              "RelativeToolTip": "MyWebApp\\Models\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:10:09.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patients.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Patients.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patients.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Patients.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T09:11:08.583Z",
               "EditorCaption": ""
@@ -128,6 +247,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddEditPatient.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditPatient.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\AddEditPatient.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:55:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditPatient.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\AddEditPatient.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAawE4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T09:03:02.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patients.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patients.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Patients.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patients.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\Patients.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T09:02:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T07:01:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T07:02:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyWebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T07:04:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:04:09.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:04:21.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:57:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddEditWard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditWard.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditWard.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditWard.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\AddEditWard.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:57:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Wards.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Wards.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Wards.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Wards.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Wards.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:57:02.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEditDoctor.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditDoctor.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditDoctor.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditDoctor.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\AddEditDoctor.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:56:17.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Doctors.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Doctors.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Doctors.cshtml.cs",
+              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Doctors.cshtml.cs",
+              "RelativeToolTip": "MyWebApp\\Pages\\Doctors.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:55:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Data\\ApplicationDbContext.cs",
@@ -135,12 +423,11 @@
               "RelativeToolTip": "MyWebApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:10:50.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:10:50.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\Index.cshtml",
@@ -148,12 +435,11 @@
               "RelativeToolTip": "MyWebApp\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:09:31.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:09:31.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
               "Title": "AddEditWard.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditWard.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditWard.cshtml",
@@ -161,12 +447,11 @@
               "RelativeToolTip": "MyWebApp\\Pages\\AddEditWard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:09:04.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:09:04.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 25,
               "Title": "Wards.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Wards.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\Wards.cshtml",
@@ -174,12 +459,11 @@
               "RelativeToolTip": "MyWebApp\\Pages\\Wards.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:08:23.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:08:23.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "AddEditDoctor.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditDoctor.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditDoctor.cshtml",
@@ -187,12 +471,11 @@
               "RelativeToolTip": "MyWebApp\\Pages\\AddEditDoctor.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:07:29.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:07:29.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Doctors.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Doctors.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\Doctors.cshtml",
@@ -205,33 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddEditPatient.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditPatient.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditPatient.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\AddEditPatient.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:03:02.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Patient.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patient.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Patient.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Patient.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\Patient.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowFkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:02:11.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "Ward.cs",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Ward.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Models\\Ward.cs",
@@ -239,12 +496,11 @@
               "RelativeToolTip": "MyWebApp\\Models\\Ward.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:11:27.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T10:11:27.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyWebApp\\wwwroot\\css\\site.css",
@@ -256,103 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Employees.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Employees.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Employees.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Employees.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\Employees.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T08:10:12.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Review.cs",
-              "RelativeToolTip": "MyWebApp\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:39:34.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MedicalExam.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\MedicalExam.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Models\\MedicalExam.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\MedicalExam.cs",
-              "RelativeToolTip": "MyWebApp\\Models\\MedicalExam.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:38:54.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Procedure.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Procedure.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Models\\Procedure.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Procedure.cs",
-              "RelativeToolTip": "MyWebApp\\Models\\Procedure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:38:42.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Client.cs",
-              "RelativeToolTip": "MyWebApp\\Models\\Client.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:38:22.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AddEditProcedure.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditProcedure.cshtml.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditProcedure.cshtml.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditProcedure.cshtml.cs",
-              "RelativeToolTip": "MyWebApp\\Pages\\AddEditProcedure.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:31:32.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Procedures.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Procedures.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Procedures.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Procedures.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\Procedures.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T07:25:14.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Clients.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Clients.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\Clients.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Clients.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\Clients.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwEUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T07:23:41.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\Shared\\_Layout.cshtml",
@@ -360,24 +520,11 @@
               "RelativeToolTip": "MyWebApp\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAowFcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T07:16:09.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T07:16:09.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "MyWebApp\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Patient.cs",
-              "RelativeToolTip": "MyWebApp\\Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:10:09.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Models\\Doctor.cs",
@@ -389,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "MyWebApp\\Pages\\Shared\\_Layout.cshtml.css",
@@ -398,30 +545,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-11-20T07:16:22.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AddEditProcedure.cshtml",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditProcedure.cshtml",
-              "RelativeDocumentMoniker": "MyWebApp\\Pages\\AddEditProcedure.cshtml",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\Pages\\AddEditProcedure.cshtml",
-              "RelativeToolTip": "MyWebApp\\Pages\\AddEditProcedure.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T06:41:43.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "MyWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\slava\\source\\repos\\web_app_zks\\MyWebApp\\appsettings.json",
-              "RelativeToolTip": "MyWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T06:21:58.436Z"
             }
           ]
         }

@@ -1,7 +1,7 @@
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using MyWebApp.Data;
+using System.Threading.Tasks;
 
 namespace MyWebApp.Pages
 {
@@ -14,17 +14,15 @@ namespace MyWebApp.Pages
             _context = context;
         }
 
-        public int ClientsCount { get; set; }
-        public int ExamsCount { get; set; }
-        public int EmployeesCount { get; set; }
-        public int ProceduresCount { get; set; }
+        public int PatientsCount { get; set; }
+        public int DoctorsCount { get; set; }
+        public int FreeWardsCount { get; set; }
 
         public async Task OnGetAsync()
         {
-            ClientsCount = await _context.Clients.CountAsync();
-            ExamsCount = await _context.MedicalExams.CountAsync();
-            EmployeesCount = await _context.Employees.CountAsync();
-            ProceduresCount = await _context.Procedures.CountAsync();
+            PatientsCount = await _context.Patients.CountAsync();
+            DoctorsCount = await _context.Doctors.CountAsync();
+            FreeWardsCount = await _context.Wards.CountAsync();
         }
     }
 }

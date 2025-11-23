@@ -28,48 +28,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditClient.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdENsaWVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditDoctor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdERvY3Rvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditEmployee.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdEVtcGxveWVlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditMedicalExam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdE1lZGljYWxFeGFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditPatient.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdFBhdGllbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditProcedure.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdFByb2NlZHVyZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditReview.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdFJldmlldy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/AddEditWard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRWRpdFdhcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Clients.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Doctors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9ycy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Employees.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Error.cshtml]
@@ -80,24 +52,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/MedicalExams.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbEV4YW1zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Patient.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudC5jc2h0bWw=
+[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Patients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Procedures.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvY2VkdXJlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Reviews.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aWV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/slava/source/repos/web_app_zks/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]

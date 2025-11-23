@@ -1,24 +1,28 @@
 using Microsoft.EntityFrameworkCore;
 using MyWebApp.Data;
-using System.Globalization;
+using MyWebApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(connectionString));
-
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection") ?? "Data Source=MyWebAppDb.db"));
 
 var app = builder.Build();
 
-var cultureInfo = new CultureInfo("en-US");
-cultureInfo.NumberFormat.NumberDecimalSeparator = ".";
-cultureInfo.NumberFormat.CurrencyDecimalSeparator = ".";
-
-CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
-CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        SeedData.Initialize(services);
+    }
+    catch (Exception ex)
+    {
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred seeding the DB.");
+    }
+}
 
 if (!app.Environment.IsDevelopment())
 {
